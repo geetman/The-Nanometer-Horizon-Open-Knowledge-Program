@@ -48,4 +48,33 @@ Browse the sections below to explore the repositories that make up The Nanometer
 
 ---
 
-#
+# Learning Hubs
+## Course Based
+
+## Fully Guided
+
+---
+
+# Open Universities
+
+---
+
+# University Browsing
+## What is this?
+
+## How to do it?
+
+## University List
+
+---
+
+# Certifications
+
+---
+
+# Libraries
+## Free Books
+
+## Paid Books (For "Reference")
+
+---
