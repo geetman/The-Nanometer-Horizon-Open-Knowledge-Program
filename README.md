@@ -5,7 +5,7 @@ Hey everyone! This is Krishaang Kaushik, aka NMCKK or Geetman, CEO of nanometer 
 ```
 All knowledge must be free, accessible, and approachable.
 ```
-The Open Knowledge Program "aka:OKP" is an effort to collect, organize, and distribute educational resources without paywalls, artificial barriers, or unnecessary complexity. Every repository linked here is designed to be understandable, reusable, and open to everyone, regardless of background or prior experience.
+The Open Knowledge Program "aka: NMOKP" is an effort to collect, organize, and distribute educational resources without paywalls, artificial barriers, or unnecessary complexity. Every repository linked here is designed to be understandable, reusable, and open to everyone, regardless of background or prior experience.
 
 ## Purpose of This Repository
 - Acts as a single entry point to all Open Knowledge Program repositories
