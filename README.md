@@ -56,8 +56,6 @@ Browse the sections below to explore the repositories that make up The Nanometer
 
 [edX](https://www.edx.org) - Official courses from big universities and companies with real certificates
 
-[Hubspot Academy](https://academy.hubspot.com) - From quick, practical courses to comprehensive certifications, learn everything you need to know about the most sought-after business skills
-
 ## Fully Guided
 
 ## Repositorys
@@ -68,7 +66,44 @@ Browse the sections below to explore the repositories that make up The Nanometer
 ---
 
 # Open Universities
+## General
 [Wikiversity](https://www.wikiversity.org) - Free community-built courses and learning resources across all academic subjects
+
+## Important
+[MIT OpenCourseWare](https://ocw.mit.edu) - The gold standard of OCW with 2,500+ courses across all disciplines, freely hosted directly by MIT.
+
+[NPTEL](https://nptel.ac.in/courses) - Free university-level courses from IITs and IISc across engineering, science, and technology, the Indian equivalent of MIT OCW.
+
+[Open Yale Courses](https://oyc.yale.edu) - Actual free lecture videos directly hosted by Yale faculty, not a Coursera redirect, covering humanities and sciences.
+
+[Carnegie Mellon OLI](https://oli.cmu.edu/independent-learner-courses/) - Genuinely interactive free courses with quizzes and assessments, not just PDFs or video lectures.
+
+[TU Delft OCW](https://ocw.tudelft.nl) - 250+ directly hosted courses with a strong engineering and environmental focus from one of Europe's top technical universities.
+
+[METU OCW](https://ocw.metu.edu.tr) - Hundreds of courses in English from Turkey's top university, particularly strong in engineering.
+
+[Open University OpenLearn](https://www.open.edu/openlearn/) - 800+ free courses with free certificates of completion across an exceptionally broad range of subjects.
+
+[Kyoto University OCW](https://ocw.kyoto-u.ac.jp/en/) - Directly hosted courses with English available, offering a unique Japanese academic perspective across many fields.
+
+[University of Tokyo OCW](https://ocw.u-tokyo.ac.jp/) - 140+ directly hosted courses from one of Asia's most prestigious universities, mostly Japanese but unique content.
+
+[Stanford Engineering Everywhere](https://see.stanford.edu) - Genuinely free Stanford engineering course materials in CS, AI, and linear systems, separate from their paid platform.
+
+[Berklee Free Resources](https://online.berklee.edu/free-music-course-resources) - Free music theory and music business content from the world's leading music university, unique in covering this subject area.
+
+## Good Reference
+[Harvard PLL Catalog](https://pll.harvard.edu/catalog) - 518 courses from Harvard with a meaningful free tier including CS50, ML, and data science, though the majority is paid.
+
+[UC Berkeley Webcasts](https://webcast.berkeley.edu) - Directly hosted Berkeley lecture recordings in CS, physics, and math, separate from their edX presence.
+
+[Open Culture](https://www.openculture.com/freeonlinecourses) - Curated index of 1,700+ free university courses from Yale, MIT, Oxford, Princeton and more, useful as a discovery tool.
+
+[Penn State OER](https://www.e-education.psu.edu/courses) - Directly hosted Penn State faculty courses in energy, mineral engineering, and geography.
+
+[Oxford Internet Institute](https://www.oii.ox.ac.uk) - Oxford webcasts on internet, society, and technology, niche but carries Oxford's credibility.
+
+[National Taiwan University OCW](http://ocw.aca.ntu.edu.tw/ntu-ocw/) - Around 250 courses with some English content, the strongest Asian university OCW outside Japan and India.
 
 ---
 
@@ -118,24 +153,46 @@ Many universities publish similar public catalogs — look for a `classes.` or `
 ## University List
 Universities with strong openly accessible course materials but **without** a dedicated OCW program:
 
-| University | Known For | Notes |
-|---|---|---|
-| [Oregon State University](https://web.engr.oregonstate.edu) | Engineering, Computer Graphics, CS | Very open faculty pages |
-| [University of Sydney](https://www.sydney.edu.au) | Engineering, Science, Medicine | Faculty pages often publicly accessible |
-| [Carnegie Mellon University](https://www.cs.cmu.edu) | CS, AI, Robotics | Strong CS department pages |
-| [Stanford](https://cs.stanford.edu) | CS, AI, Math | Individual course pages outside official OCW |
-| [UC Berkeley](https://www.eecs.berkeley.edu) | EECS, Math, Physics | Dept pages beyond the official recordings |
-| [University of Toronto](https://www.cs.toronto.edu) | CS, AI, Robotics | Faculty pages frequently open |
-| [ETH Zurich](https://ethz.ch/en) | Engineering, Physics, Math | Many lecture notes publicly hosted |
-| [TU Delft](https://www.tudelft.nl/en) | Engineering, Aerospace | Strong open department pages |
-| [University of Cambridge](https://www.maths.cam.ac.uk) | Mathematics, Physics | Famous for open maths notes |
-| [Imperial College London](https://www.imperial.ac.uk) | Engineering, Physics, Medicine | Dept pages often open |
+[Oregon State University](https://web.engr.oregonstate.edu) - Engineering, Computer Graphics, and CS faculty pages that are very openly accessible with full course directories.
+ 
+[University of Sydney](https://www.sydney.edu.au) - Engineering, Science, and Medicine faculty pages often publicly accessible, especially useful once enrolled.
+ 
+[Carnegie Mellon University](https://www.cs.cmu.edu) - Strong CS, AI, and Robotics department pages with openly available course materials.
+ 
+[Stanford](https://cs.stanford.edu) - Individual CS, AI, and Math course pages outside their official paid platform, many with slides and assignments.
+ 
+[UC Berkeley](https://www.eecs.berkeley.edu) - EECS, Math, and Physics department pages with open materials beyond the official recordings.
+ 
+[University of Toronto](https://www.cs.toronto.edu) - CS, AI, and Robotics faculty pages that are frequently open and well-maintained.
+ 
+[ETH Zurich](https://ethz.ch/en) - Engineering, Physics, and Math lecture notes frequently publicly hosted by faculty.
+ 
+[TU Delft](https://www.tudelft.nl/en) - Engineering and Aerospace department pages with strong open materials alongside their formal OCW program.
+ 
+[University of Cambridge](https://www.maths.cam.ac.uk) - Mathematics and Physics department famous for openly hosted lecture notes, particularly in maths.
+ 
+[Imperial College London](https://www.imperial.ac.uk) - Engineering, Physics, and Medicine department pages that are often open and high quality.
 
 > **Tip:** When browsing a university, start with the department page rather than the main site. Engineering, CS, and Mathematics departments are the most likely to have openly accessible course directories.
 
 ---
 
 # Certifications
+## Buisness & Administration
+[HubSpot Academy](https://academy.hubspot.com) - Completely free certificates in inbound marketing, content marketing, email, SEO, and sales — among the most recognised in the marketing industry.
+
+[Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage) - Free Google-issued certificate in digital marketing fundamentals, recognised across the industry.
+
+[Meta Blueprint](https://www.facebook.com/business/learn) - Free official Meta certifications specifically in Facebook and Instagram advertising, essential for social media marketing roles.
+
+[Semrush Academy](https://www.semrush.com/academy/) - Free SEO and digital marketing certificates from the tool that most marketing professionals actually use day to day.
+
+[Salesforce Trailhead](https://trailhead.salesforce.com) - Free certifications in Salesforce CRM, one of the most in-demand business tools in sales and marketing roles.
+
+## Project Management
+[PMI](https://www.pmi.org) - Home of the PMP, the globally recognised gold standard in project management — paid and rigorous but worth it if that's your direction.
+
+[Google Project Management Certificate](https://grow.google/certificates/project-management/) - Free entry-level project management certificate from Google, a solid stepping stone before pursuing PMP.
 
 ---
 
@@ -148,6 +205,14 @@ Universities with strong openly accessible course materials but **without** a de
 [WikiSource](https://wikisource.org/wiki/Wikisource:Main_Page) - Welcome to Wikisource, the free library that anyone can improve
 
 [OpenStax](https://openstax.org/subjects) - Free peer-reviewed college textbooks covering science, math, humanities, social sciences, and more
+
+[Project Gutenberg](https://www.gutenberg.org) — Over 70,000 free eBooks, mostly classic literature and historical texts
+
+[Standard Ebooks](https://standardebooks.org) — Beautifully formatted, public domain ebooks
+
+[Open Textbook Library](https://open.umn.edu/opentextbooks) — Peer-reviewed open textbooks for college courses
+
+[BC Campus OpenEd](https://opentextbc.ca) — Open textbooks adapted for Canadian higher education
 
 ## Subject Specific
 ### Math
