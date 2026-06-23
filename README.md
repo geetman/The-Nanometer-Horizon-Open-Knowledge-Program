@@ -46,6 +46,8 @@ Browse the sections below to explore the repositories that make up The Nanometer
 
 [Language Learning](https://github.com/geetman/Language-Learning/)
 
+[Research Hub](https://github.com/geetman/Research-Hub)
+
 ---
 
 # Learning Hubs
